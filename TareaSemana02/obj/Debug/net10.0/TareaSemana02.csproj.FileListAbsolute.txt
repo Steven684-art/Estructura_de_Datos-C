@@ -12,3 +12,4 @@ C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaS
 C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana02\obj\Debug\net10.0\TareaSemana02.pdb
 C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana02\obj\Debug\net10.0\TareaSemana02.genruntimeconfig.cache
 C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana02\obj\Debug\net10.0\ref\TareaSemana02.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana02\obj\Debug\net10.0\TareaSemana02.sourcelink.json
