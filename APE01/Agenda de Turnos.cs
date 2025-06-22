@@ -59,14 +59,14 @@ namespace ClinicaTurnos
             {
                 if (t.Dia == dia && t.Hora == hora)
                 {
-                    Console.WriteLine("❌ Ese turno ya está reservado.");
+                    Console.WriteLine(" Ese turno ya está reservado.");
                     return;
                 }
             }
 
             Turno nuevoTurno = new Turno(paciente, dia, hora, especialidad);
             turnos.Add(nuevoTurno);
-            Console.WriteLine("✅ Turno registrado con éxito.");
+            Console.WriteLine(" Turno registrado con éxito.");
         }
 
         // Método para mostrar todos los turnos
@@ -74,11 +74,11 @@ namespace ClinicaTurnos
         {
             if (turnos.Count == 0)
             {
-                Console.WriteLine("📋 No hay turnos registrados.");
+                Console.WriteLine(" No hay turnos registrados.");
                 return;
             }
 
-            Console.WriteLine("📅 Turnos registrados:");
+            Console.WriteLine("Turnos registrados:");
             foreach (var turno in turnos)
             {
                 Console.WriteLine(turno);
@@ -100,7 +100,7 @@ namespace ClinicaTurnos
 
             if (!encontrado)
             {
-                Console.WriteLine("🔍 No se encontraron turnos para ese paciente.");
+                Console.WriteLine("No se encontraron turnos para ese paciente.");
             }
         }
 
@@ -112,12 +112,12 @@ namespace ClinicaTurnos
                 if (turnos[i].Paciente.Cedula == cedula && turnos[i].Dia == dia && turnos[i].Hora == hora)
                 {
                     turnos.RemoveAt(i);
-                    Console.WriteLine("🗑️ Turno cancelado correctamente.");
+                    Console.WriteLine("Turno cancelado correctamente.");
                     return;
                 }
             }
 
-            Console.WriteLine("❌ No se encontró el turno para cancelar.");
+            Console.WriteLine("No se encontró el turno para cancelar.");
         }
     }
 
