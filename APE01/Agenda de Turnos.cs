@@ -189,7 +189,7 @@ namespace ClinicaTurnos
                 }
             }
 
-            Console.WriteLine("👋 Programa finalizado.");
+            Console.WriteLine("Programa finalizado.");
         }
     }
 }
