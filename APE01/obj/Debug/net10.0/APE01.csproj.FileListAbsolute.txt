@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\bin\Debug\net10.0\APE01.exe
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\bin\Debug\net10.0\APE01.deps.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\bin\Debug\net10.0\APE01.runtimeconfig.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\bin\Debug\net10.0\APE01.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\bin\Debug\net10.0\APE01.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.sourcelink.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\refint\APE01.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\APE01.genruntimeconfig.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\APE01\obj\Debug\net10.0\ref\APE01.dll
