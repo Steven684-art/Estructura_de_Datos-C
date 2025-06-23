@@ -184,7 +184,7 @@ namespace ClinicaTurnos
                         break;
 
                     default:
-                        Console.WriteLine("❗ Opción no válida. Intente de nuevo.");
+                        Console.WriteLine("Opción no válida. Intente de nuevo.");
                         break;
                 }
             }
