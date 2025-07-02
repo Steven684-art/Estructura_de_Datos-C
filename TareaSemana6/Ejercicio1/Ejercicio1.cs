@@ -1,4 +1,4 @@
-﻿////Programa para crear una lista enlazada y eliminar nodos fuera de un rango
+﻿////Ejercicio 1: Programa para crear una lista enlazada y eliminar nodos fuera de un rango
 
 using System;
 using System.Collections.Generic;
