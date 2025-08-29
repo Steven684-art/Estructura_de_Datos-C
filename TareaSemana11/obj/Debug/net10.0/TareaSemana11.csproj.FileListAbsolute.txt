@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\bin\Debug\net10.0\TareaSemana11.exe
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\bin\Debug\net10.0\TareaSemana11.deps.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\bin\Debug\net10.0\TareaSemana11.runtimeconfig.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\bin\Debug\net10.0\TareaSemana11.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\bin\Debug\net10.0\TareaSemana11.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.sourcelink.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\refint\TareaSemana11.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\TareaSemana11.genruntimeconfig.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Documentos\GitHub\TareaSemana11\obj\Debug\net10.0\ref\TareaSemana11.dll
